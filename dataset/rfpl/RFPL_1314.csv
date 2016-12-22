@@ -1,0 +1,240 @@
+,Home,Away,H_Shots,A_Shots,H_Shots_on_target,A_Shots_on_target,H_Pass_Success,A_Pass_Success,H_Aerial_Duel_Success,A_Aerial_Duel_Success,H_Dribbles_won,A_Dribbles_won,H_Tackles,A_Tackles,H_Possesion,A_Possesion,H_Score,A_Score
+0,Amkar,Tom Tomsk,8,5,3,2,87,74,77,23,2,5,21,16,63,37,2,0
+1,Anzhi Makhachkala,Lokomotiv Moscow,15,9,5,6,87,74,43,57,11,2,14,21,66,34,2,2
+2,Dinamo Moscow,Volga Nyzhny,14,10,5,2,79,71,41,59,5,6,21,22,56,44,2,2
+3,FC Krasnodar,Zenit St.Petersburg,13,13,8,6,75,78,47,53,7,7,27,23,47,53,1,2
+4,Krylya Sovetov Samara,Spartak Moscow,13,14,3,5,65,86,61,39,5,6,18,14,31,69,1,2
+5,Kuban Krasnodar,Rubin Kazan,18,14,5,4,83,77,36,64,5,3,9,15,61,39,1,1
+6,FC Rostov,Terek Grozny,13,10,6,2,74,76,26,74,3,3,29,22,52,48,2,1
+7,Ural,CSKA Moscow,9,21,4,8,69,85,22,78,4,6,14,27,36,64,2,2
+8,Dinamo Moscow,Anzhi Makhachkala,15,6,5,2,86,88,50,50,6,18,30,9,49,51,2,1
+9,CSKA Moscow,Krylya Sovetov Samara,16,8,4,4,82,79,60,40,6,7,12,17,55,45,2,1
+10,FC Rostov,FC Krasnodar,5,17,2,4,60,78,56,44,5,6,16,22,40,60,2,2
+11,Rubin Kazan,Zenit St.Petersburg,14,13,8,7,81,85,60,40,9,6,22,18,45,55,2,1
+12,Terek Grozny,Amkar,10,10,4,3,73,71,51,49,9,6,15,9,46,54,1,1
+13,Tom Tomsk,Kuban Krasnodar,7,14,1,4,73,77,79,21,6,8,12,26,51,49,1,2
+14,Ural,Spartak Moscow,8,11,3,4,70,87,38,62,1,6,13,18,33,67,0,2
+15,Volga Nyzhny,Lokomotiv Moscow,9,19,4,10,70,77,45,55,3,10,19,19,41,59,1,2
+16,Lokomotiv Moscow,CSKA Moscow,12,13,3,5,82,84,61,39,12,2,31,21,53,47,1,2
+17,FC Krasnodar,Amkar,7,10,5,4,70,75,45,55,4,5,14,14,41,59,2,1
+18,Krylya Sovetov Samara,Anzhi Makhachkala,9,15,2,4,76,83,40,60,4,14,27,28,41,59,1,1
+19,Dinamo Moscow,Spartak Moscow,10,15,3,6,73,81,62,38,5,11,26,13,43,57,1,4
+20,FC Rostov,Tom Tomsk,11,14,4,3,78,75,50,50,7,6,12,18,46,54,3,0
+21,Terek Grozny,Rubin Kazan,9,9,1,4,77,74,55,45,5,4,21,22,53,47,0,0
+22,Ural,Volga Nyzhny,10,21,2,5,77,79,43,57,5,13,18,13,47,53,1,2
+23,Zenit St.Petersburg,Kuban Krasnodar,9,9,5,4,84,69,50,50,6,7,27,17,60,40,1,1
+24,Amkar,Krylya Sovetov Samara,11,8,4,1,76,64,73,27,3,3,9,14,61,39,0,0
+25,Anzhi Makhachkala,FC Rostov,10,7,3,3,77,69,68,32,11,4,23,14,57,43,0,1
+26,Dinamo Moscow,Terek Grozny,12,13,4,2,76,76,41,59,4,5,22,11,51,49,1,0
+27,Kuban Krasnodar,Spartak Moscow,13,13,6,4,68,85,43,57,7,7,15,16,29,71,2,2
+28,Rubin Kazan,CSKA Moscow,10,11,2,1,83,81,63,37,1,2,24,15,51,49,0,0
+29,Lokomotiv Moscow,FC Krasnodar,19,4,6,3,81,73,52,48,4,2,17,22,56,44,3,1
+30,Volga Nyzhny,Zenit St.Petersburg,19,14,4,7,80,78,0,100,9,5,8,14,53,47,1,3
+31,CSKA Moscow,Kuban Krasnodar,16,19,7,8,82,82,39,61,9,3,11,18,55,45,1,0
+32,FC Krasnodar,Dinamo Moscow,13,20,4,5,75,83,47,53,6,5,18,14,41,59,1,1
+33,Krylya Sovetov Samara,Tom Tomsk,9,11,3,1,76,68,48,52,7,1,27,23,54,46,1,0
+34,Spartak Moscow,Rubin Kazan,13,9,4,2,79,74,25,75,14,6,24,23,59,41,0,0
+35,FC Rostov,Volga Nyzhny,19,8,8,0,79,74,44,56,12,18,26,22,55,45,4,0
+36,Terek Grozny,Lokomotiv Moscow,6,16,0,3,70,73,39,61,5,10,14,23,49,51,0,1
+37,Ural,Amkar,15,9,4,2,70,75,52,48,7,4,10,12,46,54,0,0
+38,Zenit St.Petersburg,Anzhi Makhachkala,22,19,13,2,84,81,56,44,8,7,32,19,59,41,3,0
+39,Amkar,Spartak Moscow,14,12,7,2,57,75,70,30,4,8,20,17,36,64,2,1
+40,Anzhi Makhachkala,FC Krasnodar,11,17,5,8,65,88,48,52,4,1,14,12,32,68,1,2
+41,Zenit St.Petersburg,Lokomotiv Moscow,12,13,6,4,86,80,55,45,9,6,15,22,56,44,2,1
+42,Dinamo Moscow,Zenit St.Petersburg,14,8,5,1,80,82,63,37,8,6,14,18,52,48,1,1
+43,Amkar,Rubin Kazan,7,10,4,4,71,79,53,47,8,8,19,16,44,56,0,0
+44,Kuban Krasnodar,Ural,18,9,10,3,76,79,52,48,6,2,15,20,49,51,3,2
+45,CSKA Moscow,FC Rostov,14,5,7,1,75,78,35,65,9,4,25,21,47,53,1,0
+46,Rubin Kazan,Krylya Sovetov Samara,13,9,3,3,85,76,53,47,2,8,19,17,58,42,1,1
+47,FC Krasnodar,Krylya Sovetov Samara,10,8,3,4,85,78,47,53,5,7,22,18,53,47,1,1
+48,Lokomotiv Moscow,FC Rostov,17,3,7,0,86,76,63,37,5,3,21,15,57,43,5,0
+49,Lokomotiv Moscow,Kuban Krasnodar,19,15,6,6,80,72,70,30,2,6,18,14,55,45,1,0
+50,Tom Tomsk,CSKA Moscow,5,11,2,6,65,78,63,37,3,8,18,16,37,63,1,2
+51,Tom Tomsk,Anzhi Makhachkala,11,8,4,6,70,76,50,50,2,7,12,19,46,54,2,2
+52,Volga Nyzhny,Terek Grozny,12,14,1,4,72,76,33,67,6,5,16,27,47,53,1,0
+53,Ural,Dinamo Moscow,5,13,2,5,80,88,53,47,3,5,10,17,37,63,1,4
+54,CSKA Moscow,Amkar,15,4,7,2,81,69,42,58,4,1,11,22,62,38,2,1
+55,Volga Nyzhny,Spartak Moscow,13,15,3,8,76,80,52,48,4,4,20,18,42,58,0,1
+56,FC Krasnodar,Volga Nyzhny,18,14,4,6,84,77,35,65,2,4,15,26,50,50,3,0
+57,Zenit St.Petersburg,Terek Grozny,16,14,5,3,79,82,56,46,6,7,18,16,52,48,2,0
+58,Krylya Sovetov Samara,Kuban Krasnodar,8,13,3,1,66,73,31,69,3,8,16,16,46,54,0,0
+59,Volga Nyzhny,Anzhi Makhachkala,6,21,3,10,71,76,65,35,3,6,14,14,49,51,2,1
+60,Spartak Moscow,Tom Tomsk,16,7,6,4,85,60,48,52,12,3,22,14,71,29,2,1
+61,Dinamo Moscow,FC Rostov,17,9,4,5,80,73,42,58,0,9,16,11,57,43,1,1
+62,Terek Grozny,Anzhi Makhachkala,24,9,6,3,81,63,49,50,3,5,21,27,67,33,1,1
+63,Ural,Rubin Kazan,11,15,2,7,80,84,32,68,4,3,9,20,46,54,0,3
+64,Kuban Krasnodar,Terek Grozny,16,13,4,7,73,77,50,50,10,6,19,22,39,61,3,1
+65,Terek Grozny,CSKA Moscow,11,10,6,1,71,81,73,27,6,6,28,24,33,67,2,0
+66,Spartak Moscow,FC Krasnodar,11,11,6,4,77,71,50,50,7,8,20,18,52,48,3,2
+67,Volga Nyzhny,Kuban Krasnodar,14,14,5,4,72,80,36,64,3,4,15,13,46,54,1,0
+68,Dinamo Moscow,Lokomotiv Moscow,11,14,4,4,79,74,34,66,3,3,15,22,54,46,1,3
+69,Rubin Kazan,Dinamo Moscow,14,12,5,3,80,80,40,60,3,7,11,10,50,50,2,2
+70,Zenit St.Petersburg,Spartak Moscow,12,15,7,2,71,82,64,36,9,5,17,29,40,60,4,2
+71,Krylya Sovetov Samara,Ural,19,14,6,5,83,71,39,61,7,5,13,24,58,42,1,1
+72,Tom Tomsk,Volga Nyzhny,11,6,5,0,71,76,46,54,2,2,17,13,43,57,1,0
+73,Volga Nyzhny,Amkar,9,11,2,2,69,72,43,57,4,4,10,15,52,48,0,2
+74,Kuban Krasnodar,Amkar,11,9,4,4,76,73,47,53,6,2,17,16,50,50,0,3
+75,Ural,Lokomotiv Moscow,5,24,1,9,66,90,29,71,2,4,16,15,29,71,0,3
+76,CSKA Moscow,Dinamo Moscow,13,12,5,7,80,82,25,75,4,4,15,15,50,50,0,2
+77,Spartak Moscow,CSKA Moscow,15,9,9,3,83,73,36,64,8,0,20,20,62,38,3,0
+78,Anzhi Makhachkala,Amkar,14,15,3,7,61,75,43,57,12,8,25,24,38,62,2,2
+79,Krylya Sovetov Samara,Lokomotiv Moscow,11,21,2,6,66,79,45,55,5,8,16,25,37,63,2,2
+80,FC Rostov,Zenit St.Petersburg,8,19,1,7,71,86,65,35,2,14,20,10,34,66,0,4
+81,Dinamo Moscow,Krylya Sovetov Samara,18,8,8,0,81,84,41,59,6,10,19,14,52,48,2,0
+82,Kuban Krasnodar,FC Rostov,18,20,3,4,73,75,48,52,3,7,16,23,50,50,2,2
+83,Rubin Kazan,Tom Tomsk,14,11,4,4,80,76,54,46,1,7,16,19,53,47,1,2
+84,FC Krasnodar,Rubin Kazan,12,19,4,7,61,81,43,57,5,4,18,25,27,73,1,0
+85,Spartak Moscow,Terek Grozny,14,5,4,1,82,70,43,57,15,10,25,18,65,35,0,0
+86,Terek Grozny,FC Krasnodar,16,4,1,3,77,63,48,52,12,6,22,23,64,36,0,1
+87,FC Rostov,Ural,7,12,3,5,80,67,55,45,11,3,20,22,66,34,1,1
+88,Rubin Kazan,Anzhi Makhachkala,18,6,9,3,87,78,60,40,4,4,18,18,60,40,5,1
+89,Amkar,FC Rostov,12,5,3,2,67,74,53,47,8,9,18,13,41,59,1,0
+90,Lokomotiv Moscow,Tom Tomsk,8,10,4,1,80,57,54,46,6,3,16,15,66,34,0,0
+91,Tom Tomsk,Zenit St.Petersburg,17,12,3,4,75,85,42,58,4,5,12,12,35,65,0,3
+92,CSKA Moscow,Anzhi Makhachkala,22,4,7,1,83,47,40,60,3,1,16,33,71,29,0,0
+93,Ural,FC Krasnodar,11,15,5,6,75,80,52,48,14,5,16,26,40,60,0,2
+94,Krylya Sovetov Samara,Zenit St.Petersburg,8,23,4,9,80,85,27,73,6,8,20,15,43,57,1,4
+95,Krylya Sovetov Samara,Dinamo Moscow,9,18,4,8,79,75,32,68,3,6,25,24,51,49,1,2
+96,Anzhi Makhachkala,Spartak Moscow,11,12,3,7,56,76,46,54,4,4,18,14,36,64,0,1
+97,Anzhi Makhachkala,Volga Nyzhny,15,13,4,7,75,72,50,50,5,2,22,23,50,50,0,0
+98,Volga Nyzhny,Rubin Kazan,12,22,4,8,77,81,39,61,4,5,17,13,45,55,2,1
+99,FC Krasnodar,Kuban Krasnodar,16,10,4,4,68,76,62,38,4,3,23,26,45,55,1,2
+100,Kuban Krasnodar,Volga Nyzhny,23,15,8,2,81,78,46,54,5,5,19,22,54,46,4,0
+101,Dinamo Moscow,Kuban Krasnodar,13,8,5,4,84,63,56,44,3,5,19,14,64,36,3,1
+102,Zenit St.Petersburg,FC Rostov,12,13,3,2,80,76,44,56,7,10,25,24,57,43,0,2
+103,Zenit St.Petersburg,CSKA Moscow,15,21,8,8,83,80,62,38,8,13,21,24,53,47,2,0
+104,FC Rostov,Rubin Kazan,11,9,2,3,70,64,50,50,7,3,17,20,56,44,0,0
+105,Spartak Moscow,Zenit St.Petersburg,14,16,8,8,74,67,56,44,4,4,23,16,55,45,4,2
+106,FC Krasnodar,Tom Tomsk,14,19,6,4,82,77,47,53,8,12,14,26,55,45,4,0
+107,Anzhi Makhachkala,Tom Tomsk,19,9,5,4,76,60,50,50,11,3,11,33,65,35,0,2
+108,Amkar,Dinamo Moscow,9,10,2,2,67,70,34,66,3,5,13,17,45,55,2,1
+109,Spartak Moscow,Lokomotiv Moscow,18,9,4,5,85,70,45,55,10,6,14,23,64,36,1,3
+110,Rubin Kazan,FC Krasnodar,10,9,2,2,75,69,48,52,4,6,17,13,56,44,0,1
+111,FC Rostov,Krylya Sovetov Samara,12,8,6,4,76,70,33,67,4,3,16,15,49,51,1,2
+112,Dinamo Moscow,Ural,16,6,7,1,75,77,62,38,6,1,18,17,51,49,3,0
+113,CSKA Moscow,FC Krasnodar,11,15,8,7,80,80,52,48,7,1,12,26,51,49,5,1
+114,Terek Grozny,Krylya Sovetov Samara,25,10,6,4,85,69,35,65,4,3,24,29,67,33,0,1
+115,Amkar,Kuban Krasnodar,16,6,5,1,71,56,61,39,3,1,11,13,59,41,3,1
+116,Lokomotiv Moscow,Amkar,16,11,7,3,73,76,63,37,17,2,18,24,50,50,4,0
+117,Krylya Sovetov Samara,FC Krasnodar,14,17,2,5,64,67,43,57,7,3,21,15,53,47,1,0
+118,Krylya Sovetov Samara,Volga Nyzhny,15,11,8,3,76,78,48,52,15,6,17,18,46,54,2,2
+119,Volga Nyzhny,CSKA Moscow,14,9,5,6,78,80,63,37,2,3,19,19,49,51,1,2
+120,CSKA Moscow,Spartak Moscow,16,8,5,2,64,78,68,32,3,4,22,14,36,64,1,0
+121,Terek Grozny,Ural,14,12,2,5,79,79,58,42,6,5,22,28,50,50,1,1
+122,Kuban Krasnodar,Lokomotiv Moscow,11,12,3,8,68,71,35,65,5,7,26,27,51,49,1,3
+123,Kuban Krasnodar,Anzhi Makhachkala,13,12,4,4,79,82,52,48,8,7,25,15,47,53,2,0
+124,Zenit St.Petersburg,Amkar,19,13,5,5,77,61,67,33,9,4,15,17,59,41,1,1
+125,FC Krasnodar,Terek Grozny,26,9,9,4,75,66,50,50,6,14,18,12,50,50,3,2
+126,Spartak Moscow,Volga Nyzhny,22,11,11,4,79,68,45,55,5,6,15,21,59,41,6,1
+127,Spartak Moscow,FC Rostov,10,13,2,2,68,65,48,52,7,5,10,16,49,51,2,0
+128,Tom Tomsk,Lokomotiv Moscow,17,11,7,4,59,76,37,63,5,15,14,13,39,61,2,0
+129,Lokomotiv Moscow,Dinamo Moscow,12,13,1,4,78,72,56,44,7,5,14,13,53,47,1,0
+130,FC Rostov,CSKA Moscow,15,10,4,4,79,75,40,60,9,3,20,17,54,46,0,0
+131,Rubin Kazan,Lokomotiv Moscow,13,13,3,5,75,81,58,42,7,6,27,20,50,50,1,2
+132,Ural,FC Rostov,8,16,2,4,77,84,42,58,6,4,17,13,39,61,1,4
+133,Tom Tomsk,Rubin Kazan,13,12,1,7,60,79,21,79,2,1,10,11,33,67,0,1
+134,Rubin Kazan,Amkar,14,8,4,2,68,75,38,62,3,3,11,6,51,49,3,0
+135,Tom Tomsk,Terek Grozny,19,9,5,2,66,75,40,60,5,3,20,25,45,55,0,0
+136,Amkar,Anzhi Makhachkala,15,3,3,0,77,59,70,30,2,1,22,22,62,38,1,0
+137,Ural,Krylya Sovetov Samara,9,14,5,4,62,86,53,47,9,4,23,10,29,71,1,1
+138,Terek Grozny,Zenit St.Petersburg,12,16,3,6,69,77,37,63,6,7,21,23,42,58,1,1
+139,Ural,Zenit St.Petersburg,8,12,2,2,69,82,38,62,1,7,18,3,39,61,1,2
+140,CSKA Moscow,Terek Grozny,16,13,9,5,83,81,8,92,6,8,19,17,52,48,4,1
+141,Anzhi Makhachkala,Kuban Krasnodar,9,16,3,6,69,78,35,65,6,1,21,21,42,58,0,0
+142,Anzhi Makhachkala,Ural,14,9,4,1,76,79,52,48,6,3,20,16,47,53,0,1
+143,Dinamo Moscow,Tom Tomsk,11,10,4,0,80,71,56,44,8,1,16,21,61,39,1,0
+144,Kuban Krasnodar,Tom Tomsk,14,10,7,7,71,55,57,43,6,5,16,12,57,43,2,0
+145,Terek Grozny,FC Rostov,19,6,8,2,83,74,36,64,7,3,25,26,53,47,3,0
+146,Amkar,Zenit St.Petersburg,5,9,2,5,65,74,38,62,3,9,20,12,44,56,1,2
+147,Ural,Terek Grozny,24,5,9,2,88,63,27,73,10,3,14,28,67,33,2,1
+148,FC Rostov,Kuban Krasnodar,10,12,3,3,71,59,61,39,7,11,24,18,63,37,0,0
+149,Lokomotiv Moscow,Volga Nyzhny,20,6,7,2,84,64,84,16,9,2,18,22,67,33,3,0
+150,Dinamo Moscow,Amkar,18,13,6,3,65,71,70,30,1,3,11,9,47,53,2,0
+151,Tom Tomsk,Amkar,18,15,5,4,58,61,49,51,7,5,12,15,46,54,0,0
+152,CSKA Moscow,Volga Nyzhny,24,13,8,3,84,78,52,48,9,6,20,24,60,40,3,0
+153,Anzhi Makhachkala,CSKA Moscow,16,17,4,7,72,81,41,59,11,12,24,19,41,59,0,3
+154,Lokomotiv Moscow,Krylya Sovetov Samara,13,11,3,3,71,62,52,48,8,3,13,19,58,42,2,1
+155,FC Krasnodar,FC Rostov,19,10,6,7,73,73,48,52,3,9,21,19,53,47,0,2
+156,FC Krasnodar,CSKA Moscow,19,11,5,4,72,76,77,23,6,6,29,20,46,54,1,0
+157,Volga Nyzhny,Dinamo Moscow,5,15,2,8,67,75,29,71,2,11,15,13,43,57,0,5
+158,Krylya Sovetov Samara,Terek Grozny,11,15,6,4,74,83,32,68,5,8,18,20,40,60,1,1
+159,Dinamo Moscow,Rubin Kazan,14,9,3,1,82,74,49,51,5,9,24,12,58,42,0,0
+160,Terek Grozny,Spartak Moscow,8,9,4,2,61,77,65,35,2,4,22,19,33,67,1,0
+161,Spartak Moscow,Ural,17,14,3,6,81,75,33,67,8,7,28,22,57,43,0,1
+162,FC Rostov,Spartak Moscow,16,7,0,2,65,70,38,62,4,6,19,17,48,52,0,1
+163,Zenit St.Petersburg,FC Krasnodar,18,11,10,7,75,63,61,39,7,1,19,29,61,39,4,1
+164,Kuban Krasnodar,FC Krasnodar,13,11,4,9,62,62,41,59,4,5,15,18,50,50,1,3
+165,FC Krasnodar,Spartak Moscow,21,11,12,2,68,78,48,52,10,8,30,21,38,62,4,0
+166,Amkar,Volga Nyzhny,12,7,7,3,78,68,51,49,2,4,12,14,55,45,5,1
+167,Zenit St.Petersburg,Rubin Kazan,13,16,9,9,82,74,59,41,12,4,31,26,61,39,6,2
+168,Lokomotiv Moscow,Rubin Kazan,7,8,0,0,84,77,48,52,8,0,15,25,58,42,0,0
+169,Amkar,Ural,15,14,0,6,71,73,39,61,5,3,19,20,51,49,0,2
+170,Lokomotiv Moscow,Spartak Moscow,9,5,2,2,76,70,64,36,3,9,13,16,52,48,0,0
+171,FC Rostov,Amkar,13,8,6,5,70,63,51,49,9,3,16,16,55,45,3,3
+172,Zenit St.Petersburg,Tom Tomsk,14,13,4,4,75,55,58,42,8,4,20,28,62,38,0,0
+173,CSKA Moscow,Ural,21,11,7,2,77,79,38,62,5,6,23,21,49,51,1,0
+174,Terek Grozny,Tom Tomsk,17,8,5,3,75,63,65,35,6,1,14,18,60,40,2,0
+175,Anzhi Makhachkala,Zenit St.Petersburg,9,13,2,6,67,86,50,50,3,3,28,22,33,67,1,2
+176,Rubin Kazan,FC Rostov,15,6,7,2,79,71,65,35,5,5,25,22,55,45,1,2
+177,Lokomotiv Moscow,Ural,14,10,9,2,73,78,63,37,4,6,14,13,40,60,3,0
+178,Amkar,Lokomotiv Moscow,8,11,2,1,63,72,33,67,4,2,20,22,45,55,0,0
+179,Spartak Moscow,Krylya Sovetov Samara,19,14,4,1,80,71,47,53,7,9,18,18,54,46,1,0
+180,Volga Nyzhny,Krylya Sovetov Samara,15,5,6,4,68,45,49,51,12,5,27,29,60,40,1,2
+181,Dinamo Moscow,FC Krasnodar,12,11,3,4,66,77,57,43,0,3,22,18,46,54,1,2
+182,Tom Tomsk,Dinamo Moscow,7,11,2,6,68,78,38,62,3,6,10,14,39,61,1,3
+183,Terek Grozny,Kuban Krasnodar,18,10,5,4,76,67,65,35,11,8,12,26,58,42,2,1
+184,CSKA Moscow,Zenit St.Petersburg,12,15,1,2,76,84,55,45,8,17,24,19,41,59,1,0
+185,Rubin Kazan,Kuban Krasnodar,25,11,12,4,77,60,47,53,4,4,17,18,64,36,0,2
+186,Zenit St.Petersburg,Ural,19,9,7,3,78,76,42,58,9,4,17,25,56,44,2,1
+187,Kuban Krasnodar,CSKA Moscow,13,12,5,10,82,79,42,58,13,2,20,25,50,50,0,4
+188,Ural,Anzhi Makhachkala,20,14,6,6,80,69,71,29,5,4,16,18,51,49,2,1
+189,Volga Nyzhny,Tom Tomsk,9,15,1,4,60,54,48,52,7,8,28,19,50,50,0,1
+190,Krylya Sovetov Samara,FC Rostov,15,12,1,4,61,67,45,55,3,2,20,20,51,49,0,2
+191,Lokomotiv Moscow,Anzhi Makhachkala,17,6,6,0,78,56,43,57,4,7,22,20,64,36,0,0
+192,Anzhi Makhachkala,Rubin Kazan,8,9,2,1,69,80,42,58,1,2,21,28,39,61,1,0
+193,Rubin Kazan,Spartak Moscow,13,13,5,3,66,80,67,33,4,7,20,14,33,67,2,1
+194,Amkar,Terek Grozny,8,5,6,3,68,63,42,58,7,8,21,16,52,48,0,1
+195,Zenit St.Petersburg,Krylya Sovetov Samara,14,14,6,5,79,72,60,40,7,5,17,18,51,49,2,1
+196,Kuban Krasnodar,Dinamo Moscow,13,9,5,2,75,68,45,55,5,2,11,17,53,47,1,1
+197,Dinamo Moscow,CSKA Moscow,14,10,8,3,75,78,57,43,6,10,23,17,51,49,4,2
+198,Lokomotiv Moscow,Terek Grozny,14,12,3,4,82,71,51,49,4,5,16,12,61,39,2,1
+199,Anzhi Makhachkala,Dinamo Moscow,12,14,6,4,69,85,45,55,10,1,23,22,33,67,4,0
+200,Spartak Moscow,Anzhi Makhachkala,8,11,4,5,84,76,32,68,11,4,18,20,58,42,2,2
+201,FC Krasnodar,Ural,14,12,2,1,84,66,67,33,4,5,15,23,66,34,0,1
+202,Krylya Sovetov Samara,CSKA Moscow,15,18,5,10,73,80,70,30,6,7,22,20,45,55,1,3
+203,Rubin Kazan,Volga Nyzhny,13,9,6,2,75,78,75,25,4,5,11,19,49,51,3,1
+204,Tom Tomsk,FC Krasnodar,6,18,2,7,52,79,51,49,6,8,14,11,32,68,1,1
+205,Kuban Krasnodar,Krylya Sovetov Samara,10,12,5,0,79,79,53,47,9,5,28,17,52,48,4,0
+206,Tom Tomsk,Krylya Sovetov Samara,13,4,6,1,58,63,47,53,4,2,18,20,47,53,2,0
+207,Volga Nyzhny,Ural,11,18,2,6,73,83,40,60,9,5,20,10,47,53,1,2
+208,Rubin Kazan,Ural,17,13,4,2,77,82,52,48,7,2,11,19,43,57,1,0
+209,Amkar,FC Krasnodar,12,13,6,9,65,71,68,32,7,4,14,17,49,51,2,2
+210,Volga Nyzhny,FC Rostov,11,11,5,3,62,69,44,56,4,7,17,16,41,59,2,1
+211,Lokomotiv Moscow,Zenit St.Petersburg,7,8,5,4,73,77,48,52,5,5,14,16,50,50,1,1
+212,Anzhi Makhachkala,Krylya Sovetov Samara,20,6,5,2,82,75,36,64,6,2,17,25,59,41,0,1
+213,CSKA Moscow,Rubin Kazan,17,12,7,6,82,80,62,38,14,3,33,21,57,43,2,1
+214,Tom Tomsk,Spartak Moscow,12,10,3,4,61,80,70,30,2,8,15,18,32,68,2,1
+215,Spartak Moscow,Dinamo Moscow,12,14,5,6,68,71,55,45,17,6,23,22,51,49,3,2
+216,FC Krasnodar,Lokomotiv Moscow,23,15,6,9,72,61,48,52,6,9,9,13,58,42,1,3
+217,Volga Nyzhny,FC Krasnodar,8,15,1,5,58,67,27,73,4,7,13,19,48,52,0,1
+218,Kuban Krasnodar,Zenit St.Petersburg,11,19,1,10,79,82,52,48,8,9,19,28,48,52,1,4
+219,Krylya Sovetov Samara,Amkar,13,12,5,8,66,62,59,41,10,10,19,27,51,49,2,2
+220,CSKA Moscow,Tom Tomsk,18,11,5,2,80,67,52,48,3,4,25,21,60,40,2,0
+221,Rubin Kazan,Terek Grozny,17,15,4,5,80,78,71,29,4,3,11,24,47,53,1,1
+222,Spartak Moscow,Kuban Krasnodar,16,11,4,3,83,73,52,48,3,7,18,12,55,45,0,2
+223,FC Krasnodar,Anzhi Makhachkala,11,16,3,3,73,79,67,33,2,8,14,13,43,57,1,0
+224,CSKA Moscow,Lokomotiv Moscow,11,4,3,0,75,81,48,52,7,8,27,27,46,54,1,0
+225,FC Rostov,Anzhi Makhachkala,6,19,3,5,72,75,33,67,5,5,18,14,48,52,1,1
+226,Krylya Sovetov Samara,Rubin Kazan,16,16,6,4,77,80,39,61,9,5,11,21,56,44,0,4
+227,Tom Tomsk,FC Rostov,10,13,6,4,81,81,65,35,5,2,21,18,47,53,3,2
+228,Terek Grozny,Dinamo Moscow,11,12,5,1,70,80,65,35,8,3,19,27,40,60,1,0
+229,Spartak Moscow,Amkar,11,13,3,5,74,78,41,59,8,6,18,10,53,47,1,0
+230,Ural,Tom Tomsk,14,13,5,5,79,70,37,63,2,4,14,18,55,45,0,0
+231,FC Rostov,Lokomotiv Moscow,9,12,2,2,73,80,53,47,8,12,19,20,43,57,2,0
+232,Zenit St.Petersburg,Volga Nyzhny,20,8,8,3,81,61,64,36,8,1,14,20,69,31,2,0
+233,Terek Grozny,Volga Nyzhny,16,8,7,3,82,71,83,17,2,2,14,24,57,43,2,0
+234,Amkar,CSKA Moscow,13,14,3,6,74,76,50,50,10,4,15,11,51,49,1,3
+235,Ural,Kuban Krasnodar,14,12,5,5,75,75,50,50,10,8,13,10,50,50,2,1
+236,Anzhi Makhachkala,Terek Grozny,7,19,4,6,69,83,44,56,3,2,12,18,35,65,3,0
+237,FC Rostov,Dinamo Moscow,11,18,3,9,70,82,48,52,3,3,15,13,43,57,2,3
+238,Anzhi Makhachkala,Krylya Sovetov,18,15,6,6,76,62,69,31,9,5,13,17,55,45,1,2

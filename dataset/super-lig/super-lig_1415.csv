@@ -1,0 +1,307 @@
+,Home,Away,H_Shots,A_Shots,H_Shots_on_target,A_Shots_on_target,H_Pass_Success,A_Pass_Success,H_Aerial_Duel_Success,A_Aerial_Duel_Success,H_Dribbles_won,A_Dribbles_won,H_Tackles,A_Tackles,H_Possesion,A_Possesion,H_Score,A_Score
+0,Istanbul Basaksehir,Kasimpasa,8,9,3,4,65,82,35,65,7,5,12,9,28,72,1,1
+1,Kayseri Erciyesspor,Trabzonspor,14,5,3,2,77,74,46,54,3,1,8,11,52,48,0,0
+2,Sivasspor,Gaziantepspor,19,11,3,4,83,72,59,41,6,6,14,11,65,35,1,2
+3,Fenerbahce,Karabukspor,15,8,7,3,88,81,57,43,6,3,17,12,64,36,3,2
+4,Balikesirspor,Akhisar Belediyespor,10,11,1,4,66,79,46,54,9,14,19,18,42,58,1,2
+5,Eskisehirspor,Konyaspor,12,9,4,5,83,75,41,59,4,4,13,17,57,43,2,1
+6,Bursaspor,Galatasaray,15,8,3,5,81,81,24,76,12,9,15,25,46,54,0,2
+7,Rizespor,Genclerbirligi,15,9,8,1,76,76,70,30,6,3,16,19,46,54,1,1
+8,Mersin,Besiktas,19,13,3,7,75,70,51,49,8,13,19,12,50,50,0,1
+9,Trabzonspor,Fenerbahce,12,9,2,3,64,84,33,67,2,2,7,8,35,65,0,0
+10,Genclerbirligi,Bursaspor,12,20,3,5,76,73,32,68,4,3,11,15,51,49,1,2
+11,Galatasaray,Eskisehirspor,11,8,2,3,88,75,75,25,2,7,16,12,69,31,0,0
+12,Konyaspor,Balikesirspor,11,6,4,1,81,73,85,15,6,7,18,23,57,43,2,0
+13,Gaziantepspor,Kayseri Erciyesspor,17,9,5,6,81,71,46,54,9,4,7,27,59,41,2,2
+14,Karabukspor,Istanbul Basaksehir,5,11,1,3,79,66,42,58,8,5,17,13,62,38,0,0
+15,Kasimpasa,Mersin,22,4,10,2,75,64,52,48,7,5,10,24,55,45,2,2
+16,Akhisar Belediyespor,Sivasspor,8,11,3,6,75,84,63,37,3,6,30,10,47,53,2,2
+17,Besiktas,Rizespor,14,6,3,2,88,60,41,59,11,5,17,19,77,23,1,1
+18,Mersin,Rizespor,11,13,6,3,74,78,53,47,6,8,18,10,52,48,2,0
+19,Fenerbahce,Gaziantepspor,25,10,4,5,80,61,55,45,12,11,41,27,66,34,1,0
+20,Balikesirspor,Galatasaray,4,21,2,7,59,86,54,46,7,18,23,14,26,74,2,0
+21,Istanbul Basaksehir,Trabzonspor,8,17,4,5,66,73,55,45,2,4,19,19,42,58,1,1
+22,Kayseri Erciyesspor,Akhisar Belediyespor,11,11,6,4,68,77,27,73,2,0,11,11,41,59,1,2
+23,Sivasspor,Konyaspor,7,5,0,2,82,63,62,38,2,3,11,24,63,37,0,0
+24,Bursaspor,Besiktas,13,7,2,2,77,72,60,40,3,2,15,14,56,44,0,1
+25,Kasimpasa,Karabukspor,12,8,3,2,74,70,38,62,3,8,13,25,55,45,2,1
+26,Eskisehirspor,Genclerbirligi,22,10,8,4,83,63,63,37,9,6,15,28,62,38,0,2
+27,Besiktas,Genclerbirligi,15,8,7,4,88,83,75,25,11,5,12,12,58,42,2,1
+28,Kasimpasa,Besiktas,5,7,2,5,81,89,47,53,2,6,20,16,41,59,1,5
+29,Besiktas,Konyaspor,13,7,4,2,85,72,63,37,11,7,16,27,63,37,0,1
+30,Istanbul Basaksehir,Eskisehirspor,22,11,8,4,78,74,55,45,5,6,21,14,52,48,1,1
+31,Konyaspor,Kasimpasa,15,14,6,3,66,83,41,59,6,4,21,18,33,67,2,1
+32,Trabzonspor,Galatasaray,18,18,6,6,70,80,35,65,9,2,20,13,38,62,2,1
+33,Bursaspor,Gaziantepspor,24,12,8,7,86,78,50,50,5,12,24,9,59,41,2,0
+34,Karabukspor,Rizespor,20,8,8,1,88,60,39,61,9,3,14,30,74,26,2,0
+35,Eskisehirspor,Mersin,16,5,6,2,65,78,43,57,3,4,21,14,41,59,2,0
+36,Gaziantepspor,Konyaspor,4,17,2,4,63,71,44,56,2,4,19,12,45,55,1,1
+37,Eskisehirspor,Trabzonspor,11,16,5,6,76,85,45,55,10,3,15,11,40,60,2,0
+38,Balikesirspor,Istanbul Basaksehir,13,20,5,5,81,83,41,59,11,10,8,8,52,48,1,2
+39,Fenerbahce,Besiktas,13,8,3,1,82,72,41,59,4,5,14,21,61,39,1,0
+40,Mersin,Akhisar Belediyespor,12,12,1,4,78,82,52,48,5,6,9,11,53,47,1,1
+41,Sivasspor,Kasimpasa,19,8,4,5,87,80,69,31,5,6,14,15,60,40,1,1
+42,Rizespor,Trabzonspor,24,24,10,7,81,83,57,43,2,9,12,17,46,54,0,2
+43,Karabukspor,Konyaspor,8,6,3,4,80,55,50,50,15,2,18,35,71,29,0,1
+44,Sivasspor,Balikesirspor,27,4,6,1,80,69,53,47,7,6,11,15,64,36,1,1
+45,Galatasaray,Genclerbirligi,21,16,4,3,78,80,46,54,7,11,23,16,56,44,1,0
+46,Bursaspor,Karabukspor,19,8,9,2,82,80,22,78,6,9,20,12,51,49,7,1
+47,Kayseri Erciyesspor,Rizespor,12,11,2,6,83,81,37,63,7,6,15,13,49,51,0,3
+48,Kayseri Erciyesspor,Eskisehirspor,7,8,0,2,74,62,60,40,3,2,13,15,64,36,0,1
+49,Karabukspor,Sivasspor,14,13,6,5,84,88,25,75,5,5,14,11,44,56,2,1
+50,Sivasspor,Fenerbahce,9,26,5,7,73,80,50,50,11,8,16,25,42,58,2,3
+51,Kasimpasa,Galatasaray,18,16,7,5,81,79,75,25,8,5,22,18,43,57,2,3
+52,Istanbul Basaksehir,Rizespor,23,6,9,2,84,81,47,53,5,2,8,13,52,48,3,1
+53,Akhisar Belediyespor,Bursaspor,4,27,0,6,82,85,46,54,8,10,19,18,53,47,0,1
+54,Galatasaray,Konyaspor,16,9,4,4,83,65,45,55,7,5,14,19,67,33,1,0
+55,Trabzonspor,Akhisar Belediyespor,24,17,8,9,81,81,53,47,8,16,21,14,51,49,2,0
+56,Galatasaray,Gaziantepspor,29,9,7,1,83,67,62,38,5,7,19,13,59,41,1,0
+57,Genclerbirligi,Mersin,20,14,8,8,82,79,38,62,8,4,18,15,54,46,1,2
+58,Genclerbirligi,Akhisar Belediyespor,14,9,4,0,85,81,57,43,7,4,12,17,55,45,0,0
+59,Mersin,Gaziantepspor,21,8,8,3,75,67,52,48,6,6,23,23,54,46,0,1
+60,Genclerbirligi,Trabzonspor,8,16,2,1,69,78,59,41,3,1,13,15,44,56,1,1
+61,Galatasaray,Besiktas,13,16,4,4,75,87,55,45,8,16,17,16,41,59,2,0
+62,Besiktas,Gaziantepspor,24,12,9,2,83,72,56,44,6,10,18,15,59,41,1,1
+63,Balikesirspor,Eskisehirspor,10,18,8,7,65,80,67,33,7,5,26,18,39,61,4,1
+64,Sivasspor,Mersin,11,12,3,4,65,78,41,59,11,7,13,12,39,61,1,2
+65,Istanbul Basaksehir,Fenerbahce,16,11,5,6,75,80,51,49,20,4,12,20,37,63,2,2
+66,Eskisehirspor,Kasimpasa,6,5,5,2,79,76,50,50,5,2,21,14,53,47,4,1
+67,Sivasspor,Bursaspor,10,15,5,3,70,80,47,53,12,7,28,17,46,54,4,1
+68,Bursaspor,Istanbul Basaksehir,19,15,8,3,74,78,69,31,5,7,12,14,51,49,4,1
+69,Kasimpasa,Kayseri Erciyesspor,18,13,6,6,82,75,58,42,4,8,12,14,53,47,3,3
+70,Kayseri Erciyesspor,Mersin,12,16,3,6,80,80,58,42,6,7,7,12,47,53,2,2
+71,Istanbul Basaksehir,Genclerbirligi,11,8,7,3,81,79,42,58,2,6,21,20,51,49,3,1
+72,Eskisehirspor,Fenerbahce,12,6,7,0,70,75,63,37,3,0,13,19,45,55,1,1
+73,Trabzonspor,Balikesirspor,23,12,8,4,83,71,59,41,6,5,15,14,62,38,3,2
+74,Fenerbahce,Kayseri Erciyesspor,21,13,7,5,70,74,61,39,6,7,14,24,54,46,1,1
+75,Bursaspor,Kayseri Erciyesspor,15,3,6,1,87,72,36,64,12,2,22,25,64,36,3,0
+76,Balikesirspor,Kayseri Erciyesspor,14,24,5,3,68,81,47,53,4,12,23,19,40,60,1,1
+77,Gaziantepspor,Eskisehirspor,16,15,9,7,76,86,44,56,5,10,17,9,37,63,3,2
+78,Istanbul Basaksehir,Sivasspor,16,6,5,3,81,72,48,52,7,4,10,15,56,44,2,1
+79,Akhisar Belediyespor,Gaziantepspor,14,13,6,4,84,81,52,48,5,17,8,16,45,55,3,0
+80,Konyaspor,Akhisar Belediyespor,15,8,6,1,71,79,32,68,7,9,18,11,44,56,2,1
+81,Konyaspor,Rizespor,18,11,2,3,88,74,45,55,10,4,17,19,64,36,1,1
+82,Konyaspor,Genclerbirligi,12,5,3,1,73,75,58,42,7,12,13,22,50,50,1,0
+83,Genclerbirligi,Kasimpasa,10,13,6,6,79,76,43,57,4,4,9,19,51,49,5,2
+84,Besiktas,Karabukspor,12,7,6,1,79,71,64,36,9,7,12,13,54,46,2,1
+85,Mersin,Istanbul Basaksehir,14,23,3,13,81,78,73,27,6,5,13,14,50,50,2,2
+86,Akhisar Belediyespor,Besiktas,16,17,6,5,76,83,46,54,11,6,13,10,40,60,1,1
+87,Besiktas,Istanbul Basaksehir,16,14,5,5,79,71,38,62,9,6,18,18,58,42,0,0
+88,Rizespor,Kasimpasa,10,19,3,5,80,72,62,38,2,4,17,11,58,42,1,3
+89,Balikesirspor,Gaziantepspor,20,12,8,7,82,71,68,32,9,8,14,15,51,49,1,1
+90,Mersin,Galatasaray,17,14,4,6,78,78,60,40,3,5,17,8,50,50,0,1
+91,Rizespor,Fenerbahce,19,18,4,8,82,84,50,50,2,7,19,14,45,55,1,5
+92,Fenerbahce,Balikesirspor,27,10,7,4,88,76,54,46,8,2,13,13,69,31,4,3
+93,Fenerbahce,Kasimpasa,17,10,8,3,87,74,30,70,12,4,16,14,68,32,2,0
+94,Kasimpasa,Balikesirspor,14,6,3,3,80,78,53,47,4,4,19,15,56,44,2,3
+95,Eskisehirspor,Sivasspor,14,10,5,4,78,71,21,79,6,7,15,18,58,42,1,3
+96,Kasimpasa,Bursaspor,16,16,7,6,69,86,21,79,3,8,18,9,31,69,5,3
+97,Rizespor,Galatasaray,14,18,4,3,90,92,14,86,12,7,27,20,47,53,1,1
+98,Karabukspor,Eskisehirspor,21,5,6,2,84,70,67,33,7,3,21,12,64,36,2,2
+99,Konyaspor,Trabzonspor,8,10,2,0,68,74,43,57,3,11,12,15,43,57,1,0
+100,Gaziantepspor,Genclerbirligi,16,9,2,5,80,76,69,31,7,1,12,14,59,41,0,3
+101,Bursaspor,Konyaspor,14,15,6,6,84,73,68,32,17,7,18,13,60,40,0,0
+102,Trabzonspor,Bursaspor,14,13,2,5,76,79,58,42,10,12,18,17,44,56,1,0
+103,Galatasaray,Karabukspor,22,15,10,3,78,80,37,63,16,3,26,14,48,52,4,2
+104,Trabzonspor,Besiktas,8,17,1,7,77,81,50,50,2,6,12,21,47,53,0,2
+105,Eskisehirspor,Akhisar Belediyespor,18,11,8,3,91,80,45,55,13,2,10,19,64,36,1,3
+106,Gaziantepspor,Rizespor,13,10,4,5,84,76,42,58,6,4,11,17,64,36,1,2
+107,Balikesirspor,Mersin,13,14,2,7,74,81,55,45,5,2,22,16,43,57,1,3
+108,Akhisar Belediyespor,Galatasaray,15,13,6,5,85,83,75,25,5,2,13,19,51,49,0,2
+109,Sivasspor,Trabzonspor,9,19,4,7,84,80,61,39,8,5,11,20,55,45,1,1
+110,Kayseri Erciyesspor,Istanbul Basaksehir,6,13,1,6,76,72,40,60,7,7,11,9,55,45,0,1
+111,Fenerbahce,Bursaspor,20,15,5,4,76,68,39,61,4,8,23,18,60,40,1,0
+112,Mersin,Konyaspor,13,19,7,6,77,74,48,52,5,8,15,17,51,49,3,1
+113,Kayseri Erciyesspor,Karabukspor,14,13,7,5,86,84,58,42,6,4,12,10,49,51,4,3
+114,Rizespor,Akhisar Belediyespor,10,10,5,3,79,87,41,59,4,3,12,18,42,58,3,1
+115,Karabukspor,Genclerbirligi,14,8,7,2,80,74,59,41,11,8,22,20,58,42,2,1
+116,Kayseri Erciyesspor,Sivasspor,20,18,7,6,79,86,51,49,8,8,13,8,42,58,2,3
+117,Balikesirspor,Karabukspor,12,20,7,9,63,82,45,55,5,4,20,18,31,69,4,2
+118,Mersin,Fenerbahce,10,21,2,4,71,82,35,65,5,4,14,14,36,64,0,1
+119,Bursaspor,Mersin,19,16,6,3,67,69,69,31,4,7,15,18,51,49,2,1
+120,Istanbul Basaksehir,Mersin,19,8,6,3,77,60,32,68,3,3,8,21,60,40,2,2
+121,Mersin,Kasimpasa,17,16,9,4,62,69,50,50,1,8,22,17,46,54,6,2
+122,Bursaspor,Trabzonspor,12,15,8,6,66,80,50,50,1,7,31,17,40,60,3,3
+123,Konyaspor,Fenerbahce,8,17,5,3,63,80,54,46,6,6,14,20,35,65,1,1
+124,Gaziantepspor,Balikesirspor,35,12,9,8,87,70,46,54,4,5,16,18,67,33,1,0
+125,Sivasspor,Akhisar Belediyespor,22,11,5,2,80,78,67,33,7,3,16,19,52,48,2,0
+126,Rizespor,Gaziantepspor,11,7,2,2,81,76,67,33,5,4,17,17,53,47,0,1
+127,Galatasaray,Kayseri Erciyesspor,23,6,10,3,82,70,57,43,4,7,15,14,58,42,3,1
+128,Kasimpasa,Fenerbahce,12,14,3,7,77,81,47,53,3,5,14,20,46,54,0,3
+129,Rizespor,Besiktas,5,15,1,6,73,83,37,63,7,3,16,21,39,61,1,2
+130,Istanbul Basaksehir,Kayseri Erciyesspor,17,7,6,1,62,80,52,48,12,8,21,22,31,69,3,1
+131,Genclerbirligi,Sivasspor,11,9,3,2,78,71,50,50,5,4,38,19,53,47,0,0
+132,Galatasaray,Rizespor,21,18,5,6,85,80,54,46,4,6,18,16,52,48,2,0
+133,Rizespor,Mersin,17,13,7,6,78,69,46,54,6,4,27,22,59,41,0,4
+134,Akhisar Belediyespor,Rizespor,15,10,4,6,81,72,46,54,5,3,11,14,58,42,0,4
+135,Besiktas,Balikesirspor,21,14,9,4,88,69,38,62,23,9,18,23,67,33,2,2
+136,Konyaspor,Bursaspor,15,13,7,5,69,73,35,65,10,12,24,13,52,48,2,3
+137,Gaziantepspor,Fenerbahce,14,14,4,8,79,76,50,50,2,2,12,15,54,46,0,5
+138,Karabukspor,Balikesirspor,27,9,8,5,83,60,67,33,5,7,21,17,67,33,0,1
+139,Rizespor,Eskisehirspor,18,9,5,2,89,72,52,48,5,6,15,20,66,34,3,0
+140,Akhisar Belediyespor,Eskisehirspor,13,7,4,4,85,79,67,33,4,2,20,11,57,43,2,2
+141,Galatasaray,Balikesirspor,26,17,10,3,89,73,44,56,10,6,22,14,67,33,3,1
+142,Fenerbahce,Mersin,23,10,9,4,75,65,67,33,9,4,17,14,56,44,1,0
+143,Karabukspor,Gaziantepspor,12,2,4,0,80,56,39,61,7,4,11,20,67,33,0,0
+144,Trabzonspor,Sivasspor,18,14,6,5,78,74,47,53,6,5,23,16,50,50,3,1
+145,Trabzonspor,Istanbul Basaksehir,22,11,6,6,83,76,52,48,5,2,19,12,54,46,3,2
+146,Konyaspor,Besiktas,15,5,11,3,80,70,53,47,7,5,24,20,61,39,1,2
+147,Mersin,Trabzonspor,23,17,9,7,76,74,54,46,3,8,18,26,50,50,1,5
+148,Karabukspor,Kayseri Erciyesspor,15,13,5,4,72,80,42,58,0,4,7,11,45,55,1,2
+149,Akhisar Belediyespor,Kayseri Erciyesspor,14,10,9,3,71,59,43,57,5,7,14,12,57,43,1,0
+150,Gaziantepspor,Bursaspor,6,12,3,4,65,81,37,63,7,5,11,17,41,59,1,2
+151,Sivasspor,Besiktas,16,10,0,2,77,77,50,50,7,10,22,23,51,49,0,1
+152,Genclerbirligi,Besiktas,11,16,2,8,73,86,29,71,6,9,18,22,37,63,0,2
+153,Konyaspor,Sivasspor,16,11,5,2,82,80,72,28,10,2,21,15,55,45,0,1
+154,Trabzonspor,Eskisehirspor,10,14,3,6,80,63,30,70,2,4,14,13,66,34,1,4
+155,Fenerbahce,Galatasaray,22,10,4,4,77,71,71,29,10,6,12,20,55,45,1,0
+156,Kasimpasa,Istanbul Basaksehir,5,15,1,1,76,79,69,31,3,6,15,10,48,52,0,1
+157,Besiktas,Bursaspor,10,11,7,4,79,66,38,62,7,3,20,21,55,45,3,2
+158,Kasimpasa,Sivasspor,12,4,5,1,76,62,41,59,12,2,22,28,56,44,0,0
+159,Istanbul Basaksehir,Konyaspor,17,7,5,3,69,60,57,43,12,1,21,21,57,43,0,0
+160,Trabzonspor,Kayseri Erciyesspor,15,11,7,2,76,73,44,56,1,6,21,13,54,46,2,1
+161,Karabukspor,Kasimpasa,10,13,4,3,74,71,36,64,7,5,23,14,56,44,0,0
+162,Genclerbirligi,Galatasaray,11,11,4,5,76,76,35,65,8,5,21,19,50,50,1,1
+163,Kasimpasa,Akhisar Belediyespor,13,15,6,2,69,85,48,52,4,3,19,22,29,71,2,2
+164,Gaziantepspor,Sivasspor,10,20,3,12,76,83,37,63,1,7,17,22,41,59,1,3
+165,Genclerbirligi,Eskisehirspor,14,11,5,5,66,71,50,50,9,4,19,20,52,48,1,2
+166,Sivasspor,Karabukspor,8,14,2,4,70,74,52,48,2,4,13,25,44,56,2,0
+167,Eskisehirspor,Bursaspor,10,5,1,0,62,66,47,53,3,6,17,20,48,52,0,0
+168,Karabukspor,Fenerbahce,12,12,5,6,75,77,50,50,4,5,16,16,48,52,1,2
+169,Kayseri Erciyesspor,Konyaspor,16,10,8,2,80,82,48,52,12,4,12,16,43,57,3,0
+170,Bursaspor,Akhisar Belediyespor,18,10,9,3,75,75,55,45,9,3,24,20,50,50,3,1
+171,Balikesirspor,Rizespor,12,21,4,9,59,72,50,50,12,11,14,24,39,61,2,2
+172,Akhisar Belediyespor,Balikesirspor,19,11,6,3,82,75,74,26,2,8,21,13,59,41,2,2
+173,Istanbul Basaksehir,Gaziantepspor,14,5,5,1,64,67,66,34,5,4,16,23,43,57,1,0
+174,Mersin,Genclerbirligi,16,7,4,4,78,67,68,32,6,6,22,19,58,42,1,1
+175,Kayseri Erciyesspor,Genclerbirligi,8,13,3,6,77,81,55,45,9,4,14,21,49,51,2,4
+176,Konyaspor,Eskisehirspor,9,7,1,3,70,78,52,48,4,5,30,20,44,56,1,0
+177,Bursaspor,Rizespor,16,14,6,5,76,72,36,64,7,6,17,16,56,44,1,1
+178,Besiktas,Galatasaray,9,13,2,5,75,81,70,30,19,6,19,17,49,51,0,2
+179,Galatasaray,Istanbul Basaksehir,14,15,5,6,81,75,45,55,7,6,19,18,59,41,2,2
+180,Galatasaray,Bursaspor,16,20,5,7,77,63,43,57,8,5,14,19,63,37,2,2
+181,Sivasspor,Galatasaray,12,12,6,5,80,78,44,56,7,6,18,26,51,49,2,3
+182,Fenerbahce,Istanbul Basaksehir,18,12,7,1,81,75,48,52,12,7,20,15,57,43,2,0
+183,Rizespor,Sivasspor,23,18,10,7,69,80,49,51,3,6,25,8,40,60,2,1
+184,Genclerbirligi,Rizespor,8,10,4,3,71,83,54,46,4,3,11,18,39,61,0,2
+185,Fenerbahce,Akhisar Belediyespor,23,11,4,7,83,64,59,41,4,4,13,17,65,35,1,2
+186,Kayseri Erciyesspor,Kasimpasa,11,19,3,7,65,71,52,48,3,5,14,20,52,48,2,5
+187,Gaziantepspor,Trabzonspor,4,13,3,4,59,74,64,36,2,3,12,25,40,60,2,0
+188,Besiktas,Mersin,19,7,8,5,76,71,68,32,5,8,18,14,56,44,2,1
+189,Kasimpasa,Trabzonspor,15,10,4,3,79,82,61,39,9,4,15,18,48,52,1,1
+190,Balikesirspor,Trabzonspor,8,25,2,5,58,83,46,54,8,7,19,17,34,66,2,2
+191,Genclerbirligi,Fenerbahce,9,23,4,7,75,83,52,48,3,6,15,11,44,56,2,1
+192,Fenerbahce,Trabzonspor,34,6,10,3,81,63,61,39,6,3,18,13,64,36,0,0
+193,Mersin,Karabukspor,9,15,3,3,72,66,71,29,6,6,18,17,55,45,2,1
+194,Eskisehirspor,Gaziantepspor,17,10,5,4,80,70,36,64,4,4,12,10,55,45,1,3
+195,Besiktas,Kayseri Erciyesspor,16,7,5,1,81,79,44,56,4,4,19,13,52,48,5,1
+196,Bursaspor,Genclerbirligi,23,9,6,2,81,61,56,44,5,2,22,22,66,34,3,1
+197,Balikesirspor,Genclerbirligi,13,15,5,4,64,76,44,56,7,1,15,16,47,53,0,1
+198,Rizespor,Konyaspor,7,15,2,6,68,77,41,59,4,2,20,21,40,60,1,1
+199,Bursaspor,Balikesirspor,28,6,12,3,83,63,50,50,7,10,10,15,63,37,4,2
+200,Eskisehirspor,Galatasaray,19,11,5,5,76,74,63,37,11,8,17,26,49,51,1,2
+201,Eskisehirspor,Besiktas,12,14,7,4,55,82,53,47,8,7,19,16,27,73,1,0
+202,Akhisar Belediyespor,Karabukspor,13,17,5,5,76,86,50,50,4,8,24,15,39,61,5,1
+203,Balikesirspor,Konyaspor,9,12,0,3,73,77,52,48,7,5,17,20,45,55,0,1
+204,Akhisar Belediyespor,Istanbul Basaksehir,6,7,3,2,77,69,58,42,4,4,15,15,58,42,0,2
+205,Kayseri Erciyesspor,Gaziantepspor,9,7,3,2,72,63,59,41,15,9,22,21,54,46,0,1
+206,Trabzonspor,Karabukspor,13,20,4,8,74,74,75,25,6,14,17,19,53,47,3,2
+207,Istanbul Basaksehir,Karabukspor,12,13,2,4,72,67,61,39,3,3,18,13,55,45,2,2
+208,Gaziantepspor,Kasimpasa,15,14,4,11,78,56,39,61,2,3,19,12,65,35,0,2
+209,Fenerbahce,Rizespor,29,1,11,0,85,64,53,47,12,4,18,15,69,31,2,1
+210,Kasimpasa,Rizespor,21,7,9,1,78,74,62,38,10,0,15,15,57,43,3,1
+211,Trabzonspor,Gaziantepspor,18,8,6,6,73,58,58,42,7,2,11,28,57,43,4,4
+212,Sivasspor,Eskisehirspor,7,16,4,2,80,72,71,29,5,8,10,20,54,46,1,1
+213,Konyaspor,Kayseri Erciyesspor,11,10,3,2,76,73,45,55,2,4,16,13,54,46,1,1
+214,Akhisar Belediyespor,Fenerbahce,12,22,6,8,76,82,62,38,6,7,10,18,37,63,2,0
+215,Balikesirspor,Fenerbahce,4,9,0,3,64,79,50,50,7,1,10,17,40,60,0,1
+216,Fenerbahce,Genclerbirligi,22,5,7,1,85,66,61,39,5,6,20,17,67,33,2,1
+217,Trabzonspor,Konyaspor,14,15,6,4,80,75,43,57,12,0,9,20,52,48,3,2
+218,Gaziantepspor,Istanbul Basaksehir,9,9,1,3,75,71,25,75,8,6,14,13,54,46,0,0
+219,Trabzonspor,Kasimpasa,8,14,3,8,69,74,38,62,8,18,28,15,41,59,1,1
+220,Bursaspor,Kasimpasa,15,15,8,7,81,79,50,50,9,8,25,17,58,42,5,1
+221,Kayseri Erciyesspor,Besiktas,13,18,8,5,85,85,54,46,12,7,20,16,48,52,3,2
+222,Karabukspor,Galatasaray,10,11,2,7,81,75,67,33,5,3,15,11,54,46,1,2
+223,Rizespor,Bursaspor,11,11,2,2,75,78,38,62,3,1,17,11,54,46,0,1
+224,Karabukspor,Mersin,13,9,1,5,81,74,32,68,8,10,15,14,55,45,0,2
+225,Genclerbirligi,Gaziantepspor,9,12,4,2,79,74,64,36,4,1,15,22,51,49,2,0
+226,Balikesirspor,Bursaspor,12,19,4,8,76,87,50,50,15,4,14,19,39,61,0,5
+227,Mersin,Balikesirspor,19,12,5,5,79,74,65,35,6,7,15,20,48,52,2,1
+228,Galatasaray,Sivasspor,13,15,5,5,82,82,60,40,5,8,10,17,50,50,2,1
+229,Genclerbirligi,Balikesirspor,13,16,3,5,81,77,56,44,4,3,20,18,55,45,3,1
+230,Besiktas,Trabzonspor,11,5,6,1,67,76,44,56,2,7,28,15,40,60,3,0
+231,Karabukspor,Akhisar Belediyespor,15,5,3,1,84,61,55,45,10,5,18,21,64,36,2,1
+232,Bursaspor,Fenerbahce,16,14,7,3,70,79,33,67,8,6,29,24,42,58,1,1
+233,Besiktas,Eskisehirspor,13,10,4,3,82,77,37,63,6,8,19,14,57,43,1,1
+234,Galatasaray,Akhisar Belediyespor,20,6,3,2,81,75,56,42,12,4,21,20,58,42,2,1
+235,Kasimpasa,Konyaspor,26,10,9,2,70,74,33,67,10,5,16,17,46,54,2,0
+236,Genclerbirligi,Karabukspor,9,6,7,4,79,77,56,47,5,2,14,20,46,54,2,2
+237,Istanbul Basaksehir,Akhisar Belediyespor,16,10,6,4,82,78,46,54,8,7,19,13,53,47,4,0
+238,Konyaspor,Mersin,11,12,2,5,78,75,54,46,8,6,19,17,54,46,2,0
+239,Mersin,Eskisehirspor,14,15,5,5,82,82,48,52,2,4,14,16,53,47,4,2
+240,Besiktas,Kasimpasa,7,14,4,4,76,71,54,46,6,3,25,21,53,47,2,0
+241,Karabukspor,Trabzonspor,9,9,3,4,74,71,44,56,1,5,17,12,46,54,3,0
+242,Sivasspor,Kayseri Erciyesspor,20,9,5,2,77,82,59,41,0,1,12,16,46,54,1,1
+243,Besiktas,Fenerbahce,8,10,8,6,77,81,62,38,10,12,15,26,48,52,0,2
+244,Galatasaray,Trabzonspor,14,23,4,12,80,75,52,48,6,7,12,12,57,43,0,3
+245,Kasimpasa,Gaziantepspor,23,10,14,5,82,80,52,48,7,3,24,16,54,46,4,2
+246,Eskisehirspor,Istanbul Basaksehir,7,8,2,3,81,71,60,40,5,4,5,9,64,36,0,1
+247,Konyaspor,Karabukspor,7,8,1,1,83,78,56,44,2,4,19,15,56,44,1,0
+248,Konyaspor,Gaziantepspor,13,12,5,4,85,77,52,48,4,12,20,18,58,42,2,0
+249,Mersin,Bursaspor,12,19,5,7,66,75,63,37,4,6,13,17,45,55,2,1
+250,Rizespor,Karabukspor,10,12,2,6,72,68,62,38,7,2,11,16,61,39,0,3
+251,Rizespor,Kayseri Erciyesspor,10,19,2,9,56,82,58,42,2,2,15,9,31,69,1,1
+252,Akhisar Belediyespor,Mersin,15,9,6,3,67,67,50,50,4,7,14,17,47,53,1,1
+253,Fenerbahce,Konyaspor,10,21,5,8,79,79,50,50,6,1,13,9,53,47,2,1
+254,Istanbul Basaksehir,Balikesirspor,31,7,11,3,85,65,41,59,2,5,13,20,66,34,1,0
+255,Galatasaray,Kasimpasa,10,11,3,4,79,67,37,63,3,8,21,12,58,42,2,1
+256,Balikesirspor,Sivasspor,10,14,3,6,75,75,63,37,10,7,15,23,40,60,1,3
+257,Kayseri Erciyesspor,Galatasaray,13,20,3,7,73,88,37,63,9,6,17,15,34,66,1,2
+258,Trabzonspor,Rizespor,11,14,7,6,76,72,47,53,4,6,19,19,53,47,3,2
+259,Akhisar Belediyespor,Trabzonspor,12,11,2,4,74,70,54,46,3,5,15,21,48,52,1,1
+260,Eskisehirspor,Kayseri Erciyesspor,19,9,10,1,80,69,60,40,3,3,11,10,56,44,2,1
+261,Sivasspor,Genclerbirligi,15,7,6,2,75,71,57,43,2,4,21,18,54,46,1,0
+262,Karabukspor,Bursaspor,17,15,5,8,73,76,31,69,7,8,13,19,46,54,3,2
+263,Gaziantepspor,Mersin,10,8,4,1,72,67,36,64,4,2,18,12,50,50,1,0
+264,Rizespor,Istanbul Basaksehir,13,18,3,6,81,78,23,77,3,3,12,13,59,41,0,2
+265,Balikesirspor,Besiktas,5,10,2,5,74,82,31,69,11,7,10,25,42,58,0,1
+266,Fenerbahce,Sivasspor,20,10,8,2,88,79,33,67,2,6,28,9,55,45,4,1
+267,Eskisehirspor,Balikesirspor,21,12,8,3,82,69,32,68,13,10,15,16,62,38,2,2
+268,Gaziantepspor,Galatasaray,17,16,3,4,76,76,42,58,8,5,20,21,54,46,0,1
+269,Eskisehirspor,Rizespor,17,3,7,2,84,67,63,37,6,3,18,22,69,31,1,2
+270,Konyaspor,Galatasaray,17,17,7,8,79,85,56,44,10,5,18,13,44,56,0,5
+271,Bursaspor,Sivasspor,23,7,9,4,81,70,75,25,8,4,16,19,63,37,3,0
+272,Trabzonspor,Genclerbirligi,14,15,6,8,85,77,75,25,5,3,24,13,57,43,4,1
+273,Gaziantepspor,Karabukspor,5,4,4,2,62,70,37,63,4,7,24,12,49,51,1,0
+274,Akhisar Belediyespor,Genclerbirligi,12,4,6,2,75,77,47,53,4,13,18,22,50,50,1,1
+275,Genclerbirligi,Istanbul Basaksehir,8,12,5,4,77,68,42,58,8,4,22,14,55,45,1,0
+276,Mersin,Sivasspor,11,12,4,1,71,74,54,46,9,5,18,18,44,56,2,0
+277,Trabzonspor,Mersin,19,8,6,3,74,70,52,48,12,2,12,13,54,46,3,1
+278,Gaziantepspor,Besiktas,6,18,0,6,56,77,46,54,8,3,20,11,39,61,0,1
+279,Kayseri Erciyesspor,Bursaspor,10,13,2,7,75,72,33,67,8,3,16,22,52,48,1,1
+280,Istanbul Basaksehir,Bursaspor,9,18,0,0,66,79,44,56,3,7,20,21,36,64,0,0
+281,Besiktas,Sivasspor,14,10,8,4,84,76,55,45,8,4,22,14,53,47,3,2
+282,Kasimpasa,Eskisehirspor,12,5,5,0,73,81,54,47,4,6,13,18,46,54,1,0
+283,Gaziantepspor,Akhisar Belediyespor,11,9,2,2,69,66,44,56,7,3,20,20,51,49,1,0
+284,Fenerbahce,Eskisehirspor,19,12,6,4,85,69,60,40,5,8,13,11,67,33,2,2
+285,Galatasaray,Fenerbahce,16,16,4,2,85,82,40,60,7,3,23,23,56,44,2,1
+286,Mersin,Kayseri Erciyesspor,20,16,8,9,68,76,57,43,3,7,21,16,44,56,1,1
+287,Kasimpasa,Genclerbirligi,25,11,6,7,85,74,73,27,2,3,13,14,61,39,2,2
+288,Kayseri Erciyesspor,Balikesirspor,14,12,6,4,75,78,44,56,8,6,29,9,51,49,4,0
+289,Konyaspor,Istanbul Basaksehir,9,16,2,7,73,67,53,47,2,1,11,17,57,43,0,0
+290,Kayseri Erciyesspor,Fenerbahce,9,17,1,5,71,82,47,50,4,3,16,12,46,54,0,1
+291,Istanbul Basaksehir,Besiktas,17,23,3,6,72,80,35,65,4,11,12,20,40,60,1,2
+292,Akhisar Belediyespor,Konyaspor,9,18,0,6,68,86,50,50,4,3,9,12,37,63,0,0
+293,Akhisar Belediyespor,Kasimpasa,11,21,4,1,66,80,38,62,3,9,19,15,41,59,2,0
+294,Sivasspor,Istanbul Basaksehir,14,11,2,6,82,71,80,20,8,6,20,17,64,36,0,2
+295,Karabukspor,Besiktas,13,8,5,3,81,83,55,45,5,8,15,15,48,52,1,2
+296,Bursaspor,Eskisehirspor,12,11,7,7,77,77,55,45,5,3,19,19,47,53,2,2
+297,Genclerbirligi,Konyaspor,13,9,9,2,79,75,54,46,7,5,12,22,48,52,5,0
+298,Rizespor,Balikesirspor,23,8,7,4,81,72,56,44,4,8,23,21,58,42,2,2
+299,Besiktas,Akhisar Belediyespor,10,13,4,5,73,81,44,56,4,5,25,10,47,53,3,1
+300,Genclerbirligi,Kayseri Erciyesspor,6,18,0,4,78,82,52,48,4,12,8,16,51,49,0,0
+301,Galatasaray,Mersin,17,9,3,3,73,71,38,62,2,5,20,11,49,51,3,2
+302,Istanbul Basaksehir,Galatasaray,11,18,7,5,66,81,67,33,7,7,18,15,30,70,4,0
+303,Balikesirspor,Kasimpasa,12,17,7,6,71,68,47,53,8,14,29,20,53,47,5,3
+304,Sivasspor,Rizespor,21,8,6,3,86,55,40,60,5,3,13,16,75,25,0,1
+305,Eskisehirspor,Karabukspor,17,10,7,2,78,69,41,59,4,1,11,19,61,39,1,1
